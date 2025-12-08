@@ -1,6 +1,6 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { MapComponent } from './map/map';
+import { MapComponent } from './components/map/map';
 
 @Component({
   selector: 'app-root',
